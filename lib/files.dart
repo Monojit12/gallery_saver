@@ -17,7 +17,7 @@ const List<String> imageFormats = [
   '.webp',
   '.tif',
   '.heic',
-  '.jfif' //added an image file type
+  '.jfif' //Added an image file type
 ];
 const http = 'http';
 
