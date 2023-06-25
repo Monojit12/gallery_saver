@@ -17,7 +17,12 @@ const List<String> imageFormats = [
   '.webp',
   '.tif',
   '.heic',
-  '.jfif' //Added an image file type
+  '.jfif', //Added an image file type
+  '.cr2',  //Added raw image type 1
+  '.arw',  //Added raw image type 2
+  '.nef',  //Added raw image type 3
+  '.dng',  //Added raw image type 4
+  '.raw'   //Added raw image type
 ];
 const http = 'http';
 
