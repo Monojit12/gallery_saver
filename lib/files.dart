@@ -22,7 +22,8 @@ const List<String> imageFormats = [
   '.arw',  //Added raw image type 2
   '.nef',  //Added raw image type 3
   '.dng',  //Added raw image type 4
-  '.raw'   //Added raw image type
+  '.raf',  //Added raw image type 5
+  '.raw'   //Added raw image type 6
 ];
 const http = 'http';
 
