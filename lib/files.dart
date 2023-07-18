@@ -41,9 +41,10 @@ bool isVideo(String path) {
 }
 
 bool isImage(String path) {
-  bool output = false;
-  imageFormats.forEach((imageFormat) {
-    if (path.toLowerCase().contains(imageFormat)) output = true;
-  });
-  return output;
+  // bool output = false;
+  // imageFormats.forEach((imageFormat) {
+  //   if (path.toLowerCase().contains(imageFormat)) output = true;
+  // });
+  // return output;
+  return true;
 }
